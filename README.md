@@ -3,7 +3,6 @@
 
 
  Windows Login & Logout Monitoring – SOC Analyst Project:
- ......................................................
 
  Project Overview
 This project demonstrates a real-world **SOC (Security Operations Center) use case** by monitoring Windows authentication activity using **Splunk SIEM**. The project focuses on detecting suspicious login behavior, identifying brute-force attacks, and visualizing authentication trends through dashboards and alerts.
@@ -65,11 +64,7 @@ These dashboards provide SOC analysts with quick visibility into authentication 
 
 ---
 
-
-
----
-
-## 📁 Project Deliverables
+##  Project Deliverables
 - SPL queries
 - Dashboards (JSON / screenshots)
 - Alert configurations
