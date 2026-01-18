@@ -2,14 +2,14 @@
 
 
 
- Windows Login & Logout Monitoring – SOC Analyst Project:
+ ## Windows Login & Logout Monitoring – SOC Analyst Project:
 
  Project Overview
 This project demonstrates a real-world **SOC (Security Operations Center) use case** by monitoring Windows authentication activity using **Splunk SIEM**. The project focuses on detecting suspicious login behavior, identifying brute-force attacks, and visualizing authentication trends through dashboards and alerts.
 
 
 
-* Project Objectives
+## Project Objectives
 - Monitor Windows login and logout activities
 - Detect failed login attempts and brute-force behavior
 - Analyze authentication patterns and user behavior
@@ -17,7 +17,7 @@ This project demonstrates a real-world **SOC (Security Operations Center) use ca
 
 ---
 
-* Tools & Technologies
+## Tools & Technologies
 - Splunk Enterprise (Free Edition)
 - Splunk Universal Forwarder
 - Windows Security Event Logs
@@ -25,7 +25,7 @@ This project demonstrates a real-world **SOC (Security Operations Center) use ca
 
 ---
 
-* Log Sources & Event Codes
+## Log Sources & Event Codes
 This project analyzes **Windows Security logs**, focusing on key authentication-related event IDs:
 
 | Event ID | Description           |
@@ -37,7 +37,7 @@ This project analyzes **Windows Security logs**, focusing on key authentication-
 
 ---
 
-* Dashboards Created
+## Dashboards Created
 - Failed login attempts over time
 - Top targeted user accounts
 - Login types (Interactive, Network, RDP, Service)
@@ -47,14 +47,14 @@ These dashboards provide SOC analysts with quick visibility into authentication 
 
 ---
 
-* Alerts Implemented
+## Alerts Implemented
 **Brute-Force Login Detection Alert**
 - Triggers when a user account has multiple failed login attempts within a short time window
 - Helps detect credential stuffing and password-guessing attacks
 
 ---
 
-* Skills Demonstrated
+## Skills Demonstrated
 - Windows authentication and auditing concepts
 - SIEM log ingestion and normalization
 - SPL (Search Processing Language)
