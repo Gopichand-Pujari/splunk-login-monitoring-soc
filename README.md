@@ -75,15 +75,22 @@ These dashboards provide SOC analysts with quick visibility into authentication 
 
 ### 🔍 Log Ingestion & Authentication Events
 ![Logs Ingested](screenshots/01_logs_ingested.png)
+##1
 ![Successful Logins](screenshots/02_successful_logins.png)
+##2
 ![Failed Logins](screenshots/03_failed_logins.png)
+##3
 ![Logout Events](screenshots/04_logout_events.png)
 
 ### 🧠 Data Enrichment & Analysis
 ![Login Result Evaluation](screenshots/05_login_result_eval.png)
+##6
 ![Failed Logins Time Chart](screenshots/06_failed_logins_timechart.png)
+##7
 ![Top Attacked Users](screenshots/07_top_attacked_users.png)
+##8
 ![Login Types](screenshots/08_login_types.png)
+##9
 ![Login vs Logout](screenshots/09_login_vs_logout.png)
 
 ### 🚨 Alert – Brute Force Detection
