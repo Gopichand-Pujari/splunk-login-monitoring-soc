@@ -70,4 +70,21 @@ These dashboards provide SOC analysts with quick visibility into authentication 
 - Alert configurations
 - Documentation and analysis
 
+  -------
+  ## 📸 Screenshots
+
+### 🔍 Login Events Analysis
+![Successful Login](screenshots/search_success_login_4624.png)
+![Failed Login](screenshots/search_failed_login_4625.png)
+
+### 📊 Dashboards
+![Login Overview](screenshots/dashboard_login_overview.png)
+![Failed Logins](screenshots/dashboard_failed_logins.png)
+![Login Types](screenshots/dashboard_login_types.png)
+
+### 🚨 Alert – Brute Force Detection
+![Alert Configuration](screenshots/alert_bruteforce_config.png)
+![Alert Triggered](screenshots/alert_bruteforce_triggered.png)
+
+
 
